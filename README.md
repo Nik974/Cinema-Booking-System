@@ -64,9 +64,9 @@ This project uses .env (for Docker) and application.properties (for Spring) to h
 Create a file named .env in the project's root directory and add your database credentials:
 
 ### .env file
-    POSTGRES_DB=cinemadb
-    POSTGRES_USER=postgres
-    POSTGRES_PASSWORD=mysecretpassword
+    DB_NAME=cinemadb
+    DB_USER=postgres
+    DB_PASSWORD=mysecretpassword
 
 
 
