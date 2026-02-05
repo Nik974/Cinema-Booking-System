@@ -1,3 +1,6 @@
+# This is the initial prototype of the project. The project has since evolved into a team-based version with full functionality, which you can find here: https://github.com/Nik974/BiletUZ
+
+
 # Cinema-Booking-System
 
 A backend service for a cinema ticket reservation and purchasing system, built with Spring Boot. This is an educational project focused on implementing a secure, scalable, and modern Java backend.
